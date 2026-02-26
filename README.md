@@ -1,2 +1,4 @@
 # ai-food-menu
-AI语音点餐系统
+# AI Food Menu
+AI语音点餐系统正在开发中...
+
