@@ -1,0 +1,11 @@
+"name": "ai-food-menu",
+  "version": "1.0.0",
+  "description": "AI语音点餐系统",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
